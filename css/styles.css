@@ -106,9 +106,7 @@
 }
 
 /* || Why Me section */
-.why-me {
-  padding: var(--size-150) 0;
-}
+.why-me { padding: var(--size-150) 0; }
 
 .why-me-wrapper {
   display: flex;
